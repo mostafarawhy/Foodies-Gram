@@ -255,23 +255,22 @@ Firebase CLI reads `firebase.json` for hosting configuration and `.firebaserc` f
 ## Screenshots
 
 ### Login Page
-![Login Homepage](./Screenshots/Screenshot%202025-06-03%20at%203.43.32%20AM.png)
+![Login Homepage](./Screenshots/Screenshot%202025-06-03%20at%203.43.32 AM.png)
 
 ### Google Sign-In
-![Login with Google](./Screenshots/Screenshot%202025-06-03%20at%203.44.28%20AM.png)
+![Login with Google](./Screenshots/Screenshot%202025-06-03%20at%203.44.28 AM.png)
 
 ### Upload Progress Bar
-![Upload progress bar](./Screenshots/Screenshot%202025-06-03%20at%204.01.19%20AM.png)
+![Homepage with progress uploading (progress bar)](./Screenshots/Screenshot%202025-06-03%20at%204.01.19 AM.png)
 
 ### Notifications Dropdown
-![Notification preview](./Screenshots/Screenshot%202025-06-03%20at%204.02.04%20AM.png)
-![Notification preview](./Screenshots/Screenshot%202025-06-03%20at%204.03.25%20AM.png)
+![notification preview](./Screenshots/Screenshot%202025-06-03%20at%204.02.04 AM.png)
+![Homepage](./Screenshots/Screenshot%202025-06-03%20at%204.03.12 AM.png)
+![notification preview](./Screenshots/Screenshot%202025-06-03%20at%204.03.25 AM.png)
 
 ### Comment Modal
-![Commenting](./Screenshots/Screenshot%202025-06-03%20at%204.02.54%20AM.png)
+![Commenting](./Screenshots/Screenshot%202025-06-03%20at%204.02.54 AM.png)
 
-### Feed
-![Homepage](./Screenshots/Screenshot%202025-06-03%20at%204.03.12%20AM.png)
 
 ---
 
